@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAaH//+T4\u003d",
+        "filename": "arch/arm/configs/crespo_defconfig",
+        "patchSetId": 1
+      },
+      "lineNbr": 1621,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-10-23T22:14:48Z",
+      "side": 1,
+      "message": "Why are all those tuners set to \u0027y\u0027 ?\nI don\u0027t think crespo has any of them.",
+      "revId": "2e8a7ef975522bc50b765f07ff297b09709515f0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
