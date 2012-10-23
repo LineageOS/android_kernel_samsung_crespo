@@ -16,6 +16,24 @@
       "revId": "2e8a7ef975522bc50b765f07ff297b09709515f0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//+SQ\u003d",
+        "filename": "arch/arm/configs/crespo_defconfig",
+        "patchSetId": 1
+      },
+      "lineNbr": 1621,
+      "author": {
+        "id": 2431
+      },
+      "writtenOn": "2012-10-23T23:49:37Z",
+      "side": 1,
+      "message": "They\u0027re all in the existing crespo_defconfig. I run \u0027make crespo_defconf \u0026\u0026 make menuconfig\u0027 and change just the swap setting, save, then copy .config over the existing crespo_defconfig, commit.",
+      "parentUuid": "AAAAaH//+T4\u003d",
+      "revId": "2e8a7ef975522bc50b765f07ff297b09709515f0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
