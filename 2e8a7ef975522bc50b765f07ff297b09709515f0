@@ -34,6 +34,24 @@
       "revId": "2e8a7ef975522bc50b765f07ff297b09709515f0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//+SI\u003d",
+        "filename": "arch/arm/configs/crespo_defconfig",
+        "patchSetId": 1
+      },
+      "lineNbr": 1621,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-10-23T23:53:52Z",
+      "side": 1,
+      "message": "I know it wasn\u0027t you who added the tuners, I\u0027m just wondering why they are there.",
+      "parentUuid": "AAAAaH//+SQ\u003d",
+      "revId": "2e8a7ef975522bc50b765f07ff297b09709515f0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
