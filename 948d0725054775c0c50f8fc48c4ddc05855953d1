@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAaH//+QU\u003d",
+        "filename": "drivers/cpufreq/cpufreq_interactive.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 2431
+      },
+      "writtenOn": "2012-10-24T03:55:14Z",
+      "side": 1,
+      "message": "Don\u0027t need the above 6 lines, already there below from the patch to enable boostpulse.",
+      "revId": "948d0725054775c0c50f8fc48c4ddc05855953d1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
