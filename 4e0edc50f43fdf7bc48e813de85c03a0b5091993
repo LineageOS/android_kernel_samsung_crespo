@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1aca2d91_08b0a9dc",
+        "filename": "drivers/usb/host/s3c-otg/s3c-otg-roothub.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 5281
+      },
+      "writtenOn": "2013-08-05T05:55:22Z",
+      "side": 1,
+      "message": "Extra space at EOL.",
+      "revId": "4e0edc50f43fdf7bc48e813de85c03a0b5091993",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
