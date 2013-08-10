@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dae975fb_f7ed588f",
+        "filename": "scripts/Kbuild.include",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 176
+      },
+      "writtenOn": "2013-08-10T19:28:33Z",
+      "side": 1,
+      "message": "-x assembler is ok in original code.",
+      "revId": "2982b765a1f8a06edd7360f57d5ccfd6e054043c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
