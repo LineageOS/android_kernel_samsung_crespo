@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dae975fb_17f9fc4d",
+        "filename": "scripts/Kbuild.include",
+        "patchSetId": 2
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2013-08-10T20:33:25Z",
+      "side": 1,
+      "message": "Ah, just noticed that would revert this change https://github.com/android/kernel_common/commit/875de98623fa2b29f0cb19915fe3292ab6daa1cb#scripts/Kbuild.include",
+      "revId": "399accf326acef42f333434aff011e67a7a09744",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
