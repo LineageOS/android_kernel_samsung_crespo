@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_4b822f54",
+        "filename": "drivers/input/keyboard/cypress-touchkey.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 241,
+      "author": {
+        "id": 176
+      },
+      "writtenOn": "2013-08-24T23:47:43Z",
+      "side": 1,
+      "message": "if already touchkey_backlight_enabled or already on the light, d\u0027ont request for that function",
+      "revId": "ae53d652c2fbffd8e497d30b098a1c0b748b548e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_8bb93731",
+        "filename": "drivers/input/keyboard/cypress-touchkey.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 341,
+      "author": {
+        "id": 176
+      },
+      "writtenOn": "2013-08-24T23:47:43Z",
+      "side": 1,
+      "message": "If you take care of the error on setting in the function, then use it to report error setting. dev_err(.....",
+      "revId": "ae53d652c2fbffd8e497d30b098a1c0b748b548e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
