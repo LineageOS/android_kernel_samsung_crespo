@@ -33,6 +33,24 @@
       "revId": "ae53d652c2fbffd8e497d30b098a1c0b748b548e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_8bc81776",
+        "filename": "drivers/input/keyboard/cypress-touchkey.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 341,
+      "author": {
+        "id": 5811
+      },
+      "writtenOn": "2013-08-25T02:25:03Z",
+      "side": 1,
+      "message": "If there is an error with i2c_touchkey_write_byte it already writes to the dmesg log though.",
+      "parentUuid": "baee8101_8bb93731",
+      "revId": "ae53d652c2fbffd8e497d30b098a1c0b748b548e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
